@@ -1,0 +1,9 @@
+pip install cv2
+pip install numpy
+pip install json
+pip install os
+pip install pyttsx3
+pip install csv
+pip install logging
+pip install Image
+
